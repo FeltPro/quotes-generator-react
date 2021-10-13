@@ -1,1 +1,1 @@
-## [A Hello World Quote Generator using React - based upon Jake Haugen's YouTube channel showing how to build this app from scratch on React] (https://feltpro.github.io/quotes-generator-react/)
+## [A Hello World Quote Generator using React - based upon Jake Haugen's YouTube channel [https://www.youtube.com/watch?v=EDWwhVoCvHM] showing how to build this app from scratch on React] (https://feltpro.github.io/quotes-generator-react/)
